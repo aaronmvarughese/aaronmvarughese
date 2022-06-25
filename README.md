@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @aaronmvarughese
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-aaronmvarughese/aaronmvarughese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, I am Aaron M Varughese
+I am a BTech student studying in Saintgits College of Engineering, Kottayam.
+I am interseted in building mobile applications and games but i am not yet completed, still learning about how to build.
